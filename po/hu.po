@@ -8,45 +8,48 @@ msgstr ""
 "Project-Id-Version: mainline 1.0.15\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-07-07 01:48-0400\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2022-08-21 16:43+0000\n"
+"Last-Translator: Tóth Csaba <csaba.toth@online-erp.hu>\n"
+"Language-Team: Hungarian <https://translate.i3sys.hu/projects/mainline/"
+"messages/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13.1\n"
 
 #: src/Common/LinuxKernel.vala:88
 msgid "Distribution"
-msgstr ""
+msgstr "Disztribúció"
 
 #: src/Common/LinuxKernel.vala:102
 msgid "Architecture"
-msgstr ""
+msgstr "Architektúra"
 
 #: src/Common/LinuxKernel.vala:301
 msgid "Fetching index..."
-msgstr ""
+msgstr "Katalógus letöltése..."
 
 #: src/Common/LinuxKernel.vala:338
 msgid "Fetching index from kernel.ubuntu.com..."
-msgstr ""
+msgstr "Katalógus letöltése a kernel.ubuntu.com szerverről..."
 
 #: src/Common/LinuxKernel.vala:594
 msgid "Could not find running kernel in list!"
-msgstr ""
+msgstr "Nem található a futó kernel a listában!"
 
 #: src/Common/LinuxKernel.vala:600
 msgid "Could not find any kernels to uninstall"
-msgstr ""
+msgstr "Nem található egy kernel sem az eltávolításhoz"
 
 #: src/Common/LinuxKernel.vala:609
 msgid "The following kernels will be uninstalled:"
-msgstr ""
+msgstr "A következő kernelek el lesznek tábolítva:"
 
 #: src/Common/LinuxKernel.vala:616
 msgid "Continue ?"
-msgstr ""
+msgstr "Folytassam ?"
 
 #: src/Common/LinuxKernel.vala:642 src/Console/AppConsole.vala:314
 msgid "Latest update"
@@ -59,7 +62,7 @@ msgstr ""
 #: src/Common/LinuxKernel.vala:661 src/Console/AppConsole.vala:326
 #: src/Console/AppConsole.vala:387
 msgid "No updates found"
-msgstr ""
+msgstr "Nem található frissítés"
 
 #: src/Common/LinuxKernel.vala:671
 #, c-format
@@ -68,42 +71,42 @@ msgstr ""
 
 #: src/Common/LinuxKernel.vala:909
 msgid "Packages Available"
-msgstr ""
+msgstr "Csomagok érhetőek el"
 
 #: src/Common/LinuxKernel.vala:917
 msgid "Packages Installed"
-msgstr ""
+msgstr "Telepített csomagok"
 
 #: src/Common/LinuxKernel.vala:998
 msgid "Available Kernels"
-msgstr ""
+msgstr "Elérhető kernelek"
 
 #: src/Common/LinuxKernel.vala:1005 src/Gtk/MainWindow.vala:186
 msgid "Installed"
-msgstr ""
+msgstr "Telepített"
 
 #: src/Common/LinuxKernel.vala:1005 src/Gtk/MainWindow.vala:186
 #: src/Gtk/MainWindow.vala:628 src/Gtk/MainWindow.vala:642
 msgid "Running"
-msgstr ""
+msgstr "Futó"
 
 #: src/Common/LinuxKernel.vala:1042
 msgid "Downloading"
-msgstr ""
+msgstr "Letöltés"
 
 #: src/Common/LinuxKernel.vala:1061
 #: src/Utility/Gtk/CustomMessageDialog.vala:148
 #: src/Utility/Gtk/CustomMessageDialog.vala:152
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: src/Common/LinuxKernel.vala:1066
 msgid "ERROR"
-msgstr ""
+msgstr "HIBA"
 
 #: src/Common/LinuxKernel.vala:1080 src/Gtk/MainWindow.vala:650
 msgid "This kernel is already installed."
-msgstr ""
+msgstr "Ez a kernel már telepítve va."
 
 #: src/Common/LinuxKernel.vala:1106
 msgid "Installation completed. A reboot is required to use the new kernel."
