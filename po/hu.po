@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: mainline 1.0.15\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2022-07-07 01:48-0400\n"
-"PO-Revision-Date: 2022-08-21 16:43+0000\n"
+"PO-Revision-Date: 2022-08-22 18:00+0000\n"
 "Last-Translator: Tóth Csaba <csaba.toth@online-erp.hu>\n"
 "Language-Team: Hungarian <https://translate.i3sys.hu/projects/mainline/"
 "messages/hu/>\n"
@@ -114,7 +114,7 @@ msgstr ""
 
 #: src/Common/LinuxKernel.vala:1109
 msgid "Installation completed with errors"
-msgstr ""
+msgstr "Telepítés hibákkal fejeződött be"
 
 #: src/Common/LinuxKernel.vala:1124
 msgid ""
@@ -128,11 +128,11 @@ msgstr ""
 
 #: src/Common/LinuxKernel.vala:1160 src/Common/LinuxKernel.vala:1207
 msgid "Un-install completed"
-msgstr ""
+msgstr "Eltávolítás sikerült"
 
 #: src/Common/LinuxKernel.vala:1163 src/Common/LinuxKernel.vala:1210
 msgid "Un-install completed with errors"
-msgstr ""
+msgstr "Eltávolítás hibákkal sikerült"
 
 #: src/Common/LinuxKernel.vala:1176
 msgid ""
@@ -146,12 +146,12 @@ msgstr ""
 
 #: src/Common/Main.vala:275
 msgid "Notifications are disabled"
-msgstr ""
+msgstr "Értesítések le vannak tiltva"
 
 #: src/Common/Package.vala:134 src/Common/Package.vala:198
 #, c-format
 msgid "File not found: %s"
-msgstr ""
+msgstr "Fájl nem található: %s"
 
 #: src/Console/AppConsole.vala:62 src/Gtk/AppGtk.vala:149
 msgid "Syntax"
@@ -175,7 +175,7 @@ msgstr ""
 
 #: src/Console/AppConsole.vala:69
 msgid "List installed kernels"
-msgstr ""
+msgstr "Telepített kernelek listázása"
 
 #: src/Console/AppConsole.vala:70
 msgid "Install latest mainline kernel"
@@ -215,7 +215,7 @@ msgstr ""
 
 #: src/Console/AppConsole.vala:81 src/Gtk/SettingsDialog.vala:163
 msgid "Hide unstable and RC releases"
-msgstr ""
+msgstr "Instabil és RC verziók elrejtése"
 
 #: src/Console/AppConsole.vala:82
 msgid "Enable verbose debugging output"
@@ -261,7 +261,7 @@ msgstr ""
 
 #: src/Console/AppConsole.vala:262 src/Gtk/MainWindow.vala:100
 msgid "Could not find requested version"
-msgstr ""
+msgstr "Nem található a kért verzió"
 
 #: src/Console/AppConsole.vala:265
 msgid "and use a version string listed in first column"
@@ -287,7 +287,7 @@ msgstr ""
 #: src/Console/AppConsole.vala:367 src/Console/AppConsole.vala:379
 #: src/Gtk/MainWindow.vala:330
 msgid "Install"
-msgstr ""
+msgstr "Telepítés"
 
 #: src/Gtk/AppGtk.vala:153
 msgid "Print debug information"
@@ -299,101 +299,101 @@ msgstr ""
 
 #: src/Gtk/MainWindow.vala:146
 msgid "Kernel"
-msgstr ""
+msgstr "Kernel"
 
 #: src/Gtk/MainWindow.vala:174
 msgid "Status"
-msgstr ""
+msgstr "Állapot"
 
 #: src/Gtk/MainWindow.vala:314
 msgid "Refresh"
-msgstr ""
+msgstr "Frissítés"
 
 #: src/Gtk/MainWindow.vala:321 src/Utility/TeeJee.System.vala:42
 msgid "Internet connection is not active"
-msgstr ""
+msgstr "Az Internet kapcsolat nem aktív"
 
 #: src/Gtk/MainWindow.vala:321 src/Gtk/MainWindow.vala:525
 #: src/Gtk/MainWindow.vala:655
 msgid "No Internet"
-msgstr ""
+msgstr "Nincs Internet"
 
 #: src/Gtk/MainWindow.vala:339
 msgid "Multiple Kernels Selected"
-msgstr ""
+msgstr "Több kernel van kijelölve"
 
 #: src/Gtk/MainWindow.vala:339
 msgid "Select a single kernel to install"
-msgstr ""
+msgstr "Csak egy kernelt válasszon ki"
 
 #: src/Gtk/MainWindow.vala:342 src/Gtk/MainWindow.vala:353
 msgid "Not Selected"
-msgstr ""
+msgstr "Nincs kiválasztva"
 
 #: src/Gtk/MainWindow.vala:342
 msgid "Select the kernel to install"
-msgstr ""
+msgstr "Válassza ki a kernelt a telepítéshez"
 
 #: src/Gtk/MainWindow.vala:347
 msgid "Uninstall"
-msgstr ""
+msgstr "Eltávolítás"
 
 #: src/Gtk/MainWindow.vala:353
 msgid "Select the kernels to uninstall"
-msgstr ""
+msgstr "Válassza ki a kernelt az eltávolításhoz"
 
 #: src/Gtk/MainWindow.vala:383 src/Gtk/MainWindow.vala:417
 #: src/Gtk/MainWindow.vala:687
 msgid "Close window to exit..."
-msgstr ""
+msgstr "Zárja be az ablakot a kilépéshez..."
 
 #: src/Gtk/MainWindow.vala:391
 msgid "Uninstall Old"
-msgstr ""
+msgstr "Régi eltávolítása"
 
 #: src/Gtk/MainWindow.vala:392
 msgid "Uninstall kernels older than running kernel"
-msgstr ""
+msgstr "Eltávolítja a jelenleg futó kernelnél régebbieket"
 
 #: src/Gtk/MainWindow.vala:424
 msgid "Changes"
-msgstr ""
+msgstr "Módosítások"
 
 #: src/Gtk/MainWindow.vala:435 src/Gtk/SettingsDialog.vala:50
 msgid "Settings"
-msgstr ""
+msgstr "Beállítások"
 
 #: src/Gtk/MainWindow.vala:458
 msgid "About"
-msgstr ""
+msgstr "Névjegy"
 
 #: src/Gtk/MainWindow.vala:503
 msgid "Kernel upgrade utility for Ubuntu-based distributions"
-msgstr ""
+msgstr "Kernel frissítő segédprogram Ubuntu alapú disztribúciókhoz"
 
 #: src/Gtk/MainWindow.vala:504
 msgid "Forked"
-msgstr ""
+msgstr "Forkolt"
 
 #: src/Gtk/MainWindow.vala:504
 msgid "Original"
-msgstr ""
+msgstr "Eredeti"
 
 #: src/Gtk/MainWindow.vala:525 src/Gtk/MainWindow.vala:655
 msgid "Internet connection is not active."
-msgstr ""
+msgstr "Internet kapcsolat nem aktív."
 
 #: src/Gtk/MainWindow.vala:544
 msgid "Refreshing..."
-msgstr ""
+msgstr "Frissítés..."
 
 #: src/Gtk/MainWindow.vala:638
 msgid "available"
-msgstr ""
+msgstr "elérhető"
 
 #: src/Gtk/MainWindow.vala:650
 msgid "Already Installed"
-msgstr ""
+msgstr "Már telepített"
 
 #: src/Gtk/ProgressWindow.vala:144 src/Gtk/TerminalWindow.vala:149
 #: src/Utility/Gtk/CustomMessageDialog.vala:153
@@ -402,67 +402,67 @@ msgstr ""
 
 #: src/Gtk/SettingsDialog.vala:60
 msgid "Notification"
-msgstr ""
+msgstr "Értesítés"
 
 #: src/Gtk/SettingsDialog.vala:67
 msgid "Notify if a major release is available"
-msgstr ""
+msgstr "Értesítsen ha egy új főverzió érhető el"
 
 #: src/Gtk/SettingsDialog.vala:78
 msgid "Notify if a point release is available"
-msgstr ""
+msgstr "Értesítsen ha egy új alverzió érhető el"
 
 #: src/Gtk/SettingsDialog.vala:89
 msgid "(Allowing intervals in seconds for --debug)"
-msgstr ""
+msgstr "(Másodperces intervallum engedélyezése a --debug megkönnyítéséhez)"
 
 #: src/Gtk/SettingsDialog.vala:112
 msgid "Check every"
-msgstr ""
+msgstr "Ellenőrzés"
 
 #: src/Gtk/SettingsDialog.vala:142
 msgid "Hour(s)"
-msgstr ""
+msgstr "Óránként"
 
 #: src/Gtk/SettingsDialog.vala:144
 msgid "Day(s)"
-msgstr ""
+msgstr "Naponta"
 
 #: src/Gtk/SettingsDialog.vala:146
 msgid "Week(s)"
-msgstr ""
+msgstr "Hetenként"
 
 #: src/Gtk/SettingsDialog.vala:149
 msgid "Second(s)"
-msgstr ""
+msgstr "Másodpercenként"
 
 #: src/Gtk/SettingsDialog.vala:155
 msgid "Display"
-msgstr ""
+msgstr "Megjelenítés"
 
 #: src/Gtk/SettingsDialog.vala:177
 msgid "Show N previous major versions "
-msgstr ""
+msgstr "Mutassa N előző fő verziókat "
 
 #: src/Gtk/SettingsDialog.vala:192
 msgid "Other"
-msgstr ""
+msgstr "Egyebek"
 
 #: src/Gtk/SettingsDialog.vala:200
 msgid "Skip internet connection check"
-msgstr ""
+msgstr "Internet kapcsolat ellenőrzésének kihagyása"
 
 #: src/Gtk/SettingsDialog.vala:213
 msgid "Internet connection timeout in "
-msgstr ""
+msgstr "Internet kapcsolat időtúllépése "
 
 #: src/Gtk/SettingsDialog.vala:228
 msgid "seconds"
-msgstr ""
+msgstr "másodperc múlva"
 
 #: src/Gtk/SettingsDialog.vala:235
 msgid "Max concurrent downloads"
-msgstr ""
+msgstr "Maximum párhuzamos letöltés"
 
 #: src/Gtk/TerminalWindow.vala:159 src/Utility/Gtk/AboutWindow.vala:294
 msgid "Close"
